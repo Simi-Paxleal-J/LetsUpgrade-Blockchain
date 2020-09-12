@@ -1,0 +1,40 @@
+WEEK 1:
+
+Hey LetsUpgraders, welcoming you people to the blockchain course. You will be sent weekly articles so as to recollect the basics. Lets start!!
+
+Blockchain technology is poised to fundamentally change our online world. This is not some kind of miraculous, cure-all, money-making solution. One specific use of blockchain such as Bitcoin, but rather the fundamental shift for the offline world ushered in by the web with easy to use access to information and the ability to make digital copies of data or content in an unprecedented ease for distribution across the globe. Hence the name, the World Wide Web. That inter connectivity has suffered fundamental problems when it comes to transactions - TRUST.
+
+ The fundamental shift that blockchain technology represents is a method for moving away from an attempt to have a central trusted authority in a massively distributed network. But instead to have multiple sources of trust that must all agree, based on an algorithm that this transaction can be trusted as valid. Furthermore, most blockchain solutions offer an immutable and enduring record of a transaction as it is hard for any trusted or untrusted source to change or modify. This presents a completely new level of security, privacy, and TRUST to our online world.
+
+Behold the dreamers; Bitcoin the history:
+
+Why should a man intentionally live his life with one kind of anxiety followed by another?                                                                    —Imbolo Mbue 
+Anxiety is perhaps the best way to describe the attitude that dominated the minds of investors and the general public toward financial markets by the end of 2008. The 2008 financial crisis is considered by numerous economists to have been the worst financial crisis since the Great Depression. The years leading up to the crisis saw a flood of irresponsible mortgage lending and a massive systemic failure of financial regulation and supervision. The fallout was so immense that it threatened the collapse of large financial institutions. National governments had to intercede to bail out major banks. This article begins with a discussion about the 2008 financial crisis, and then we discuss the aftermath, which led to an environment where a new banking system and alternative currency such as Bitcoin could thrive.
+
+ 
+
+PARADIGM SHIFT:
+
+Revolutions often look chaotic, but this one was brewing quietly, headed by an unknown individual under the name Satoshi Nakamoto, who dreamed of changing the financial world. Any number of parties can be blamed for the financial crisis, but the common denominator was that fundamental financial and accounting instruments used to maintain integrity of the entire system became too complex to be used efficiently. Trust, the ultimate adhesive of all financial systems, began to disappear in 2008. The regulations have since changed to prevent similar circumstances from arising, but it was clear that there was a need for autoregulation of trust between counterparties and transparency into their ability to enter any type of a sales contract. A counterparty is essentially the other party in a financial transaction.
+
+ In other words, it is the buyer matched to a seller. In financial transactions, one of the many risks involved is called counterparty risk, the risk that each party involved in a contract might not be able to fulfill its side of the agreement. The systemic failure referenced earlier can now be understood in terms of counterparty risk: Both parties in the transaction were accumulating massive counterparty risk, and in the end, both parties collapsed under the terms of the contract. Imagine a similar transaction scenario involving multiple parties, and now imagine that every single player in this scenario is a major bank or insurance company that further serves millions of customers. This is just what happened during the 2008 crisis.
+
+The next issue we need to discuss is that of double spending. . The principle behind double spending is that resources committed to one domain (e.g., one transaction) cannot also be simultaneously committed to a second disparate domain. This concept has obvious implications for digital currencies, but it can also summarize some of the problems during the 2008 crisis.
+
+Here’s how it started: Loans (in the form of mortgages) were given to borrowers with poor credit histories who struggled to repay them. These high-risk mortgages were sold to financial experts at the big banks, who packaged them into low-risk public stocks by putting large numbers of them together in pools. This type of pooling would work when the risks associated with each loan (mortgage) are not correlated. The experts at big banks hypothesized that property values in different cities across the country would change independently and therefore pooling would not be risky. This proved to be a massive mistake. The pooled mortgage packages were then used to purchase a type of stock called collateralized debt obligations (CDOs). The CDOs were divided into tiers and sold to investors. The tiers were ranked and rated by financial standards agencies and investors bought the safest tiers based on those ratings. Once the U.S. housing market turned, it set off a domino effect, destroying everything in the way. The CDOs turned out to be worthless, despite the ratings. The pooled mortgages collapsed in value and all the packages being sold instantly vaporized. Throughout this complex string of transactions, every sale increased the risk and incurred double spending at multiple levels. Eventually, the system equilibrated, only to find massive gaps, and collapsed under the weight.
+
+Brief timeline for 2008:
+
+• January 11: Bank of America buys the struggling Countrywide.
+
+ • March 16: Fed forces the sale of Bear Stearns.
+
+ • September 15: Lehman Brothers files for Chapter 11 bankruptcy.
+
+ • September 16: Fed bails out American International Group (AIG) for $85 billion.
+
+ • September 25: Washington Mutual fails.
+
+ • September 29: Financial markets crash; the Dow Jones Industrial Average fell 777.68 points and the whole system was on the brink of collapse.
+
+ • October 3: U.S. government authorizes $700 billion for bank bailouts.
