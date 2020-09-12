@@ -1,0 +1,24 @@
+WEEK 2:
+
+Hope you guys found the previous article useful.Let’s continue from where we left off.
+
+The bailout had massive economic consequences, but more important, it created the type of environment that would allow for Bitcoin to flourish. In November 2008, a paper was posted on the Cryptography and Cryptography Policy Mailing List titled “Bitcoin: A Peer-to-Peer Electronic Cash System,” with a single author named Satoshi Nakamoto. This paper detailed the Bitcoin protocol and along with it came the original code for early versions of Bitcoin. In some manner, this paper was a response to the economic crash that had just happened, but it would be some time before this technological revolution caught on. Some developers were concerned with this electronic cash system failing before it could ever take hold and their concern was scalability.
+
+So who is Nakamoto? What is his background? The short and simple answer is that we don’t know. In fact, it is presumptuous to assume that he is actually a “he.” The name Satoshi Nakamoto was larely used as a pseudonym and he could have been a she, or even a they. Several reporters and news outlets have dedicated time and energy to digital forensics to narrow down candidates and find out the real identity of Nakamoto, but all the efforts so far have been wild-goose chases. In this case, the community is starting to realize that maybe it doesn’t matter who Nakamoto is, because the nature of open source almost makes it irrelavent. Jeff Garzik, one of the most respected developers in the Bitcoin community, described it as follows: “Satoshi published an open source system for the purpose that you didn’t have to know who he was, and trust who he was, or care about his knowledge.” The true spirit of open source makes it so that the code speaks for itself, without any intervention from the creator or programmer.
+
+ 
+
+CYPHERPUNK COMMUNITY:
+
+Nakamoto’s real genius in creating the Bitcoin protocol was solving the Byzantine generals’ problem. The solution was generalized with components and ideas borrowed from the cypherpunk community.
+
+We briefly talk about three of those ideas and the components they provided for the complete Bitcoin protocol:
+
+ Hashcash for proof of work,
+
+ Byzantine fault tolerance for the decentralized network and
+
+blockchain to remove the need for centralized trust or a central authority.
+
+Let’s dive into each one, starting with Hashcash. Hashcash was devised by Adam Black in the late 1990s to limit e-mail spam with the first of its kind Proof-of-Work (PoW) algorithm. The rationale behind Hashcash was to attach some computational cost to sending e-mails. Spammers have a business model that relies on sending large numbers of e-mails with very little cost associated with each message. However, if there is even a small cost for each spam e-mail sent, that cost multiplies over thousands of e-mails, making their business unprofitable. Hashcash relies on the idea of cryptographic hash functions: A type of hash function (in the case of Bitcoin, SHA1) takes an input and converts it into a string that generates a message digest. The hash functions are designed to have a property called one-way functions, which implies that a potential input can be verified very easily through the hash function to match the digest, but reproducing the input from the digest is not feasible. The only possible method of re-creating the input is by using brute force to find the appropriate input string. In practice, this is the computationally intensive element of Hashcash and also eventually Bitcoin. This principle has become the foundation behind PoW algorithms powering Bitcoin today and most cryptocurrencies. The PoW for Bitcoin is more complex and involves new components.
+
